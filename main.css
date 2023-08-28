@@ -139,6 +139,10 @@ nav{
     }
     #about_page .second p{  
         margin-top: 70px !important; 
+        margin-left: -15px !important;
+    }
+    #about_page ul li i{   
+        margin-left: -15px !important;
     }
     
 } 
